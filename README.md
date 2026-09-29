@@ -47,10 +47,3 @@ Responsive coffee shop website built with React, TypeScript, Vite, and Tailwind 
 ### [ISDCC Website](https://github.com/YLKILL/isdcc-website)
 
 Frontend prototype with demo authentication and administrative workflows.
-
-## GitHub stats
-
-<div align="center">
-  <img height="165" alt="YLKILL's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=YLKILL&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLKILL&layout=compact&hide_border=true&theme=transparent" />
-</div>
