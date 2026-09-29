@@ -40,10 +40,10 @@ I build clean, responsive web interfaces and reliable backend services.
 
 ## Featured projects
 
-### [Coffee](https://github.com/YLKILL/coffee)
+### [Coffee](https://github.com/daazyi/coffee)
 
 Responsive coffee shop website built with React, TypeScript, Vite, and Tailwind CSS.
 
-### [ISDCC Website](https://github.com/YLKILL/isdcc-website)
+### [ISDCC Website](https://github.com/daazyi/isdcc-website)
 
 Frontend prototype with demo authentication and administrative workflows.
